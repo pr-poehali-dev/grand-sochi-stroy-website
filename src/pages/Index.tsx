@@ -234,7 +234,7 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Адрес</h3>
-                    <p className="text-muted-foreground">г. Сочи</p>
+                    <p className="text-muted-foreground">Краснодарский край, г. Сочи</p>
                   </div>
                 </div>
 
@@ -244,8 +244,8 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Телефон</h3>
-                    <a href="tel:+79999999999" className="text-muted-foreground hover:text-secondary transition-colors">
-                      +7 (999) 999-99-99
+                    <a href="tel:+79950655235" className="text-muted-foreground hover:text-secondary transition-colors">
+                      +7 (995) 065-52-35
                     </a>
                   </div>
                 </div>
@@ -278,8 +278,8 @@ const Index = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">WhatsApp</h3>
-                    <a href="https://wa.me/79999999999" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-secondary transition-colors">
-                      +7 (999) 999-99-99
+                    <a href="https://wa.me/79950655235" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-secondary transition-colors">
+                      +7 (995) 065-52-35
                     </a>
                   </div>
                 </div>
@@ -299,7 +299,7 @@ const Index = () => {
                   <Button 
                     size="lg" 
                     className="w-full bg-secondary hover:bg-secondary/90 text-foreground font-medium"
-                    onClick={() => window.open('https://wa.me/79999999999', '_blank')}
+                    onClick={() => window.open('https://wa.me/79950655235', '_blank')}
                   >
                     <Icon name="MessageCircle" size={20} className="mr-2" />
                     Написать в WhatsApp
