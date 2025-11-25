@@ -89,7 +89,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Building2" className="text-secondary" size={32} />
-              <span className="text-2xl font-serif font-bold text-foreground">НовоСтрой Сочи</span>
+              <span className="font-serif font-bold text-foreground text-4xl">НовоСтрой Сочи</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <button 
