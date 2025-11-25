@@ -89,7 +89,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Building2" className="text-secondary" size={32} />
-              <span className="text-2xl font-serif font-bold text-foreground">ГРАНД СОЧИ СТРОЙ</span>
+              <span className="text-2xl font-serif font-bold text-foreground">НовоСтрой Сочи</span>
             </div>
             <div className="hidden md:flex space-x-8">
               <button 
@@ -126,7 +126,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <h1 className="text-5xl md:text-7xl font-serif font-bold text-foreground leading-tight">
-                ГРАНД СОЧИ СТРОЙ
+                НовоСтрой Сочи
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground font-light">
                 Комплексный подход к строительству и инженерным работам
@@ -143,7 +143,7 @@ const Index = () => {
             <div className="relative h-[400px] md:h-[600px] rounded-lg overflow-hidden shadow-2xl">
               <img 
                 src="https://cdn.poehali.dev/projects/e899cd54-dc1d-4da3-9acc-1e32ed3083ca/files/9b97d3e8-184f-41e5-8af0-b0a00ef99573.jpg" 
-                alt="ГРАНД СОЧИ СТРОЙ" 
+                alt="НовоСтрой Сочи" 
                 className="w-full h-full object-cover"
               />
             </div>
@@ -290,7 +290,7 @@ const Index = () => {
                   <div className="text-center">
                     <Icon name="Building2" className="text-secondary mx-auto mb-4" size={64} />
                     <h3 className="text-2xl font-serif font-bold text-foreground mb-4">
-                      ГРАНД СОЧИ СТРОЙ
+                      НовоСтрой Сочи
                     </h3>
                     <p className="text-muted-foreground">
                       Ваш надежный партнер в строительстве и инженерных работах
@@ -316,7 +316,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-2">
               <Icon name="Building2" className="text-secondary" size={24} />
-              <span className="font-serif font-bold text-foreground">ГРАНД СОЧИ СТРОЙ</span>
+              <span className="font-serif font-bold text-foreground">НовоСтрой Сочи</span>
             </div>
             <p className="text-sm text-muted-foreground">
               © 2025 Все права защищены
